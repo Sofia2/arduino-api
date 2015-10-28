@@ -1,4 +1,4 @@
-# Sofia2, API C
+# Sofia2, API Arduino
 
 *Ver en otros idiomas: [Inglés](README.md), [Español](README.es.md).*
 
