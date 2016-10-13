@@ -1,7 +1,7 @@
 #ifndef _SSAPMESSAGEGENERATOR_H_
 #define _SSAPMESSAGEGENERATOR_H_
 
-#include "ssapmessage.h"
+#include "SSAPMessage.h"
 
 class SSAPMessageGenerator
 {
